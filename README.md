@@ -1,2 +1,2 @@
-# Miner-a-de-Datos
+# Minería-de-Datos
 Repositorio de la clase de Minería de Datos
